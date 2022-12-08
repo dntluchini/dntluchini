@@ -1,4 +1,4 @@
-** Code style : **
+
 ```js 
  const dante = {
     code: ["Javascript","CSS","HTML"],
