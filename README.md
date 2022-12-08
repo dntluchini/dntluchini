@@ -5,14 +5,12 @@
     askMeAbout: ["web dev", "tech", "web"],
     currentFocus: "No Focus point at this time",
     language: ["es-AR" ,"en-US"],
-    someMiscellaneousStuff : ["☕" , "❄️" , "e-sports 🎮 sports 🏀 " ], 
+    someMiscellaneousStuff : ["☕" , "❄️" , "eSports 🎮 sports 🏀 " ], 
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 <h1 align="center">Hi 👋, I'm dante</h1>
 <h3 align="center">A passionate frontend developer from La Plata, Buenos Aires, Argentina</h3>
-
-<p align="left"> <a href="https://twitter.com/danteeluchini" target="blank"><img src="https://img.shields.io/twitter/follow/danteeluchini?logo=twitter&style=for-the-badge" alt="danteeluchini" /></a> </p>
 
 - 🔭 I’m currently working on [goDent's website](dntluchini.github.io)
 
