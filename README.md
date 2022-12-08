@@ -12,7 +12,9 @@
 <h1 align="center">Hi 👋, I'm dante</h1>
 <h3 align="center">A passionate frontend developer from La Plata, Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working on [goDent's website](https://dntluchini.github.io/goDent.github.io/)
+<p align="left"> <a href="https://twitter.com/danteeluchini" target="blank"><img src="https://img.shields.io/twitter/follow/danteeluchini?logo=twitter&style=for-the-badge" alt="danteeluchini" /></a> </p>
+
+- 🔭 I’m currently working on [goDent's website](dntluchini.github.io)
 
 - 🌱 I’m currently learning **javaScript**
 
