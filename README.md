@@ -5,7 +5,6 @@
     askMeAbout: ["web dev", "tech", "web"],
     currentFocus: "No Focus point at this time",
     language: ["es-AR" ,"en-US"],
-    someMiscellaneousStuff : ["☕" , "❄️"] 
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
